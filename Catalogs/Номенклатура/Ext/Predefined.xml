@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="b07a1b6d-f10f-4e13-a67d-e8012fb26f9e">
+		<Name>МатериалыСобственные</Name>
+		<Code>000000003</Code>
+		<Description>Материалы (собственные)</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="9d2c2944-3513-4b98-92d3-5582e312fdc0">
+		<Name>МатериалыКлиента</Name>
+		<Code>000000004</Code>
+		<Description>Материалы клиента</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="a839398e-756d-43e6-8ee1-43ed7792e477">
+		<Name>Товары</Name>
+		<Code>000000001</Code>
+		<Description>Товары</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="4e033a69-eecc-4f43-8a0d-4771c5750782">
+		<Name>Услуги</Name>
+		<Code>000000002</Code>
+		<Description>Услуги</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
